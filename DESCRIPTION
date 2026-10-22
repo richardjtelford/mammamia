@@ -1,0 +1,15 @@
+Package: mammamia
+Type: Package
+Title: Pizza planning
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Richard", "Telford",
+      email = "richard.telford@uib.no",
+      role = c("aut", "cre")
+    )
+  )
+Description: How to make a good pizza (more pineapple)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
